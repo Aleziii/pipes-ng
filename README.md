@@ -1,1 +1,1 @@
-enabled=true
+This lib implement pipes to angular
