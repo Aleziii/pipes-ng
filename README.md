@@ -1,1 +1,1 @@
-This lib implement pipes to angular
+This lib implement pipe to angular
